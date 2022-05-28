@@ -4,69 +4,70 @@ If your 'Mech is invalid, you can hit the "Confirm" button to see what issues it
 Switch between your equipped ammunition types by clicking on the name of your current ammunition in the 'Mech's weapon panel.
 Vehicles take each point of heat damage as two points of normal damage.
 Most AFVs have heavily armored fronts, but weaker sides and rear. 
-Every Important Information on item is either in the Traits or Brightly Coloured.
-PPC Weapon hits clear nearby landmines.
-Machine Guns, Flamers and Small Pulse lasers get bonuses vs Power Armor Squads.
-Through Armor Criticals are defined by Weapons; a Gauss slug can punch through the thickest of hides but a Laser only melts the surface.
-Putting your cursor over your weapons will show you exactly why you can't hit the flanking stealthed light hiding on a forest hill.
+All important information on an item is either in the Traits or is brightly coloured.
+PPC weapon hits will clear nearby landmines.
+Machine Guns, Flamers, and Small Pulse Lasers get bonuses vs Power Armor Squads.
+Through Armor Criticals are defined per weapon; a Gauss slug can punch through the thickest of hides but a Laser will only melt the surface.
+Mouseover your weapons in the Weapon and Equipment Panel and it will show you exactly why you can't hit the flanking stealthed light hiding on a forest hill.
 Can't Headshot a moving target with Offensive Push? Try to find a Headshot Capable FCS or BC Headshot.
 You cannot Multi-Target Stealthed Units.
 Evasion pips don't go away when you shoot at a target. 
-TAB can be used to toggle between Targets.
-Press V to cycle between available melee Targets.
+Press TAB to cycle between targets.
+Press V to cycle between available melee targets.
 Mouseover the Cybereye in your 'Mech's status panel to see your sensor rolls.
 The colored dots on the ground show different types of terrain.
-Ctrl+Click on the Ammunition counter to eject Ammo before moving if you're overheating.
-CTRL+A toggles visibility of ECM bubbles.
-Shift+Click on the skills tab of a pilot in the Barracks to reset their skills; Requires Argo Training Module Upgrade #2.
+If your Mech is overheating you can Ctrl+Click on the Ammunition counter to eject Ammo, but only before moving!
+Ctrl+A toggles visibility of the various aura bubbles (ECM, AMS, etc).
+Shift+Click on the skills tab of a pilot in the Barracks to reset their skills. Requires Argo Training Module Upgrade #2.
 RTFM!
 READ THE WIKI!
 CHECK THE FAQ!
+CHECK THE KNOWN ISSUES ON THE ROGUETECH DISCORD!
 Hover tanks have trouble going up and down steep hills.
-Tracked vehicles can go up steeper hills than any other ground unit except infantry.
+Tracked vehicles can go up steeper hills than any other ground unit (except infantry).
 Wheeled vehicles move best on roads and in cities.
 If one of your pilots is panicking try to keep them from getting hit for a couple turns until they calm down.
-A unit carrying a Command Console, Communications Gear, or C3 equipment can buff all your units on the field.
+A unit carrying a Command Console, Communications Gear, or other specialized Gear can buff all your units on the field.
 If your MechWarrior got a bad sensor roll; consider cooling down, using a UAV ping, or guarding this turn rather than taking bad shots.
-It's hard to aim on the move! Your pilots may have trouble hitting a target while moving, especially when sprinting!
-While jump jets increase the chance of evading enemy fire, they also reduce your weapon accuracy.
-If you have trouble moving around and laying traps, try jump jets and enjoy a whole new dimension of freedom.
+It's hard to aim on the move! Your pilots may have trouble hitting a target while moving, especially when Sprinting or Jumping!
+While Jump Jets increase the chance of evading enemy fire, Jumping reduces your weapon accuracy significantly.
+If you have trouble moving around and laying traps, try Jump Jets and enjoy a whole new dimension of freedom.
 Be careful about hugging enemies, or you just might end up shooting your own units in the back. Or your allies might do it for you.
 Positioning is key. Take the high ground or dig in deep.
 Upgrade the Argo! Don't scoff at morale upgrades or ignore your Mechtechs.
 Choose MechWarriors who work well as a team and complement each other's skills.
-Equipment is key. A well-equipped Light can kill a poorly equipped Assault.
+Equipment is key. A well equipped Light can kill a poorly equipped Assault.
 Instability removes Evasion AND Guarded! Perfect for a follow up volley.
 You can have up to three repair bays working simultaneously with Argo upgrades, and at 100% efficiency to boot!
 Ammo explodes. Don't have too much of it. Also, don't run out of ammo. But you do you, chief.
 Untrained MechWarriors are more likely to panic. Punch through their armor to make them reach for that Eject button. 
 Scare your enemy into bailing out! Destroying their allies, flanking, and reducing their offensive capability all lead to panic.
-The danger zones in a DropShip landing area are no joke, no matter what your fellow MechWarriors told you.
-Plan your lance according to the range & strategy you intend to use.
+The Danger Zones in a DropShip landing area are no joke, no matter what your fellow MechWarriors may have told you.
+Plan your lance according to the range and the strategy you intend to use.
 A 'Mech needs an engine core to function.
 An IS XL engine will save a lot of weight, but if you lose a Torso Side, you lose the 'Mech.
-Bring some Streaks or pulse lasers to deal with those pesky Lights!
-Watch your heat. Riding the redline will slow you down or blow you sky high.
+Bring some Streaks or Pulse Lasers to deal with those pesky Lights!
+Watch your heat. Riding the redline can slow you down or blow you sky high.
 Riding the redline is dangerous... but oh so fun.
-If you ever want to progress, you may need to punch above your lance's weight!
+If you ever want to make progress, you may need to punch above your lance's weight!
 Choose your contracts carefully and you can get yourself some great salvage!
 Hitting an already overheated enemy with flamers or heat-generating weapons gives bonus damage!
 Buildings burn well. Buildings burn very well.
 It's harder for your pilots to see when it's dark or foggy.
-Trees are decent ablative armor, until they get set on fire.
-Double Heat Sinks (DHS) require a DHS Kit, which can be installed in the cooling slot.
-Repair costs of armor varies depending on type and Mechtech level.
+Trees are decent ablative armor.  Until they get set on fire, that is.
+Double Heat Sinks (DHS) require a DHS Kit, which must be installed in the cooling slot of the Center Torso.
+The cost and time needed to repair armor varies depending on type of armor and your Argo's Mechtech level.
 Primitive Armour is cheap and easy to maintain. Hardened plates, not so much.
 Read your ECM's Traits to see how it protects you and / or your Lancemates and Allies
 Active Probes boost your sensor check, improving the information you see about enemies at longer ranges.
 Stealth makes you harder to detect. It also provides a range based defense as well as extra defense the less you move!
-Narcs attach to a unit, providing visibility beyond sensor range and increased accuracy! This is opposed by enemy ECM, and lasts for a short duration.
-Tags increase your sensor check for tagged units, but this bonus degrades as they move from the position they were originally tagged.
+Narcs attach to enemy units, providing visibility beyond sensor range and increased accuracy for you and your allies! This is opposed by enemy ECM, and lasts for a short duration.
+Tags give you a bonus to sensor checks vs tagged units, but this bonus degrades as they move from the position they were originally tagged.
 IFF jammers add a penalty to enemy sensor check's against a unit, making it harder to detect.
 UAV's allow you to do a quick scan of the Battlefield and Sensor Lock every Nearby Enemy.
 Melee combat in RogueTech is dramatically more difficult to start with, but a specialized melee 'Mech is a nightmare.
-Railguns and Gauss rifles deal tremendous damage at equally tremendous ranges. Reach out and touch someone.
-Killing Rocket Launcher units before they blow their load is tactically advisable.
+Railguns and Gauss Rifles deal tremendous damage at equally tremendous ranges. Reach out and touch someone.
+Killing Rocket Launcher units before they blow their load is (very) tactically advisable.
 Attacks against the side and rear of a target have an increased chance to hit.
 Overheating 'Mechs in RogueTech do not suffer structure damage, but do suffer various penalties and their ammunition bins have a small chance to explode.
 "How do you pronounce HHR? HHHHHuuuhhhhrrrrr." - Unknown (not really, it was Dan)
@@ -75,7 +76,7 @@ C.A.S.E. PROTECTS! C.A.S.E. IS LIFE!
 C.A.S.E. greatly reduces damage from ammunition explosions. Like a condom or fire extinguisher, it is often better to have and not need, than need and not have.
 A Gausszilla is only as dangerous as the local geography is flat. Careful positioning defeats mad courage every time.
 After a forest tile has been burned, it offers no cover and negatively affects the stability of BattleMechs standing on it.
-90% to hit is still 10% to miss. Dice don't follow your expectations.
+90% to hit is still 10% to miss. The dice don't follow your expectations.
 Friendly Fire isn't very friendly. Don't put your 'Mechs in the line of fire.
 Pyrrhic victories are for idealists.  You're a Merc: if the repairs are going to cost more than you're getting paid you should have left already.
 Talk to Sumire to arrange Aerospace Fighter cover for the Leopard while you withdraw.
@@ -87,7 +88,7 @@ The Argo's Mechbay upgrades let you work on more than one unit at a time.
 If this keeps spinning, check the FAQ!
 If the loading wheel isn't spinning, it probably hasn't crashed.
 RogueTech is the story of your little company surviving the harsh life of a Merc.
-Basic components that come with a 'Mech like the cockpit and gyro are easy to come by and replace. Don't worry if they blow up! They'll be replaced when the 'Mech is repaired.
+Basic components that come with a 'Mech like the cockpit and gyro are easy to come by and replace. Don't worry if they blow up! They'll be automatically replaced when the 'Mech is repaired.
 If it's stupid and it works, it's still stupid but you got lucky.
 If brute force isn't working, you aren't using enough of it.
 The key to negotiating with Mercs is convincing them that the compromise they agreed on is no compromise at all.
@@ -210,7 +211,7 @@ Complex does not mean competent, and the most damning fool of all is an educated
 Never make anything simple and efficient when a way can be found to make it complex and wonderful.
 The totally convinced and the totally stupid have too much in common for the resemblance to be accidental.
 "If things seem under control, you are just not going fast enough." - Mario Andretti
-"Politicians are the same all over. They promise to build a bridge even where there is no river." - Nikita Khrushchev
+"Politicians are the same all over. They promise to build a bridge even where there is no river." - Nikita Khrushchev (a Soviet politician)
 "Half the lies our opponents tell about us are not true." - Sir Boyle Roche
 "Why should we put ourselves out of our way to do anything for posterity? For what has posterity ever done for us?" - Sir Boyle Roche
 "Prediction is very difficult, especially about the future." - Niels Bohr
@@ -240,8 +241,8 @@ Well-trained, well-equipped troops can stand up to many more times their lesser 
 "Man has killed man from the beginning of time, and each new frontier has brought new ways and new places to die. Why should the future be different?" - Col. Corazon Santiago
 "He held his arm too stiffly, and so was thrown back repeatedly, until at last I seized his forearm and snapped it back against itself. His training suffered while the arm healed, of course, but I felt this was a lesson he must learn early, and well." - Spartan Kel, "Honing the Ki"
 "The first thing you have to understand about any knife fight is that you WILL get cut. Trade a cut for a kill." - Sgt Timothy Drake, Concord Army Special Operations
-Our commander is a military historian, his knowledge of the Star League is not due to 'being old enough to remember it'.
-Should you prefer a more direct approach to combat, try autocannons. Nothing says, "BEGONE!" louder than a roaring AC/20.
+The Commander is a military historian. Her knowledge of the Star League is not due to 'being old enough to remember it'.
+Should you prefer a more direct approach to combat, try autocannons. Nothing says, "BEGONE!" louder than a roaring AC/20.  Except possibly the roar of an Ultra AC/20...
 Laser shows have been occasionally known to blind the eyes, 'Mechs, vehicles, buildings, and your neighbours.
 A solid punch will cause most MechWarriors to shit a brick.
 Stop referring to the base security personnel and rookies as 'cannon fodder', 'D-Class', and/or 'redshirts'. This is negatively affecting morale.
@@ -255,7 +256,7 @@ In any given calculation, the fault will never be placed if more than one person
 "As soon as you make something idiot-proof, along comes another idiot." - Grave's Law
 A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.
 Million-to-one chances... crop up nine times out of ten.
-Professionals are predictable, it's the amateurs that are dangerous.
+Professionals are predictable.  It's the amateurs that are dangerous.
 The only time suppressive fire works is when it is used on abandoned positions.
 "They'll never expect this" really means: "I want to try something stupid."
 The size of the combat bonus is inversely proportional to the likelihood of surviving to collect it.
@@ -290,7 +291,7 @@ Maxim 16: Your name is in the mouth of others: be sure it has teeth.
 The longer everything goes according to plan, the bigger the impending disaster.
 If the officers are leading from in front, watch out for an attack from the rear.
 The world is richer when you turn enemies into friends, but that's not the same as you being richer.
-If you're not willing to shell your own position, you're not willing to win.
+If you're not willing to shell your own position, you're not willing to do what is neccesary to win. Victory is rarely without cost.
 Give a man a fish, feed him for a day. Take his fish away and tell him he's lucky just to be alive, and he'll figure out how to catch another one for you to take tomorrow.
 Give a man a fire and he's warm for a day, but set fire to him and he's warm for the rest of his life.
 If you can see the whites of their eyes, somebody's done something wrong.
@@ -338,9 +339,9 @@ Of course I'm crazy, but that doesn't mean I'm wrong.
 Did you see THAT? DID YOU SEE IT?!?
 War. War never changes. The way of humanity will never change and war brings another bloody chapter in our history. At least there's profit to be made.
 Darius has no idea what he's talking about half the time.
-Always listen to Darius, he's the man with the plan.
+Always listen to Darius; he's the man with the plan.
 Information is ammunition. Unless you got your information from Darius, in which case information is shite.
-INSPIRING GUITAR SOLO...
+INSPIRING GUITAR SOLO!!
 Are you gonna eat that?
 The quick brown fox jumps over the lazy yellow dog.
 Now is the time for all good men to come to the aid of the party.
@@ -348,7 +349,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Never hit a man with glasses. Hit him with a baseball bat, instead.
 War sucks, but it pays well.
 Do you ever feel like you lack critical information?
+Have you ever questioned the nature of your reality?
 What on God's Green Flat Earth is going on here?
+What in the Sam Hill is going on here?
 Help! I've been kidnapped and forced to write loading screen tips!
 Help! I've been kidnapped and forced to test everyone's work!
 Help! I've been kidnapped and forced to make trashcans for your amusement!
@@ -361,8 +364,6 @@ I didn't do it!
 It is always morally correct to use nuclear weapons on The Professional.
 It is gruelling to beat the pride out of a Davion.
 "Are ya winnin, son?" - Dad
-It is grueling to beat the pride out of a Davion.
-"Are ya winnin', son?" - Dad
 "Roguetech is about family." - Dom
 Apes together strong!
 Acronym of the day - Strategic Transfer of Equipment to Alternate Locations
@@ -377,4 +378,14 @@ We live on a placid island of ignorance in the midst of black seas of infinity, 
 "Nobody wants to be here and nobody wants to leave." - Cormac McCarthy
 "War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner." - Cormac McCarthy
 "In every trade save war men of talent and vigor prosper. In war they die." - Cormac McCarthy
-
+"And on the pedestal these words appear: 'My name is Ozymandias, king of kings: Look on my works, ye Mighty, and despair!' Nothing beside remains." - Percy Bysshe Shelley
+"You cannot kill that which has no life!" - R Aucoin
+"Caedite eos. Novit enim Dominus qui sunt eius." - The Unofficial RogueTech Motto
+"Man's unfailing capacity to believe what he prefers to be true rather than what the evidence shows to be likely and possible has always astounded me." - Academician Prokhor Zakharov, "For I Have Tasted the Fruit"
+"You can get more of what you want with a kind word and a gun than you can with just a kind word." - Al Capone
+"Information, the first principle of warfare, must form the foundation of all your efforts." - Col. Corazon Santiago, "Spartan Battle Manual"
+"What do I care for your suffering? Pain, even agony, is no more than information before the senses, data fed to the computer of the mind." - Chairman Sheng-ji Yang, "Essays on Mind and Matter"
+"Artillery adds dignity to what would otherwise be a vulgar brawl." - Fredrick the Great
+"Red-hot iron, white-hot iron, cold-black iron; an iron taste, and iron smell, and a Babel of iron sounds."— Charles Dickens, "Bleak House"
+TRAINING MONTAGE!
+Please don't go. The Drones need you. They look up to you.
